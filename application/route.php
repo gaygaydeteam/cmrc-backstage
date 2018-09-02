@@ -15,5 +15,6 @@ return [
     ],
     '__alias__' =>  [
         'api'  =>  'index/api',
+      	'login' => 'index/login'
     ],
 ];
